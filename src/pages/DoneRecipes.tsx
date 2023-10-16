@@ -45,7 +45,7 @@ function DoneRecipes() {
       <p data-testid="0-Curry-horizontal-tag">O</p>
       <p data-testid="1-horizontal-image">O</p>
       <p data-testid="1-horizontal-top-text">O</p>
-      <p data-testid="1-horizontal-name">O</p>
+      <p data-testid="1-horizontal-nam">O</p>
       <button
         data-testid="1-horizontal-share-btn"
         onClick={ handleShare }

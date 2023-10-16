@@ -66,7 +66,7 @@ function FavoriteRecipes() {
       <button data-testid="1-horizontal-share-btn">
         Image
       </button>
-      <button data-testid="1-horizontal-favorite-btn">
+      <button data-testid="1-horizontal-favorite-bt">
         Image
       </button>
       <Footer />

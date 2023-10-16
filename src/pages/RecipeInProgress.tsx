@@ -30,7 +30,7 @@ function RecipeInProgress() {
         setRecipe(data.meals ? data.meals[0] : data.drinks[0]);
         setLoading(false);
       } catch (error) {
-        console.error('Erro ao buscar detalhes da receita:', error);
+        alert('Erro ao buscar detalhes da receita:');
         setLoading(false);
       }
     };
